@@ -47,8 +47,11 @@ These pre-trained models, trained on the COCO 2017 dataset, were selected for te
 
 For consistency and due to budget constraints, the training steps were limited to 2000 for all models. The same batch size of 8 and Momentum Optimizer were used across the experiments.
 
+
+**Summary of Experiments and Best Model Selection**
+**Note:** Due to limited AWS credits, I conducted the evaluation based on visual inspection and manual analysis rather than using TensorFlow Board for in-depth metrics.
+
 ## Results
-## Summary of Experiments and Best Model Selection
 
 In this project, I evaluated three object detection models: **Model_1_SSD_EfficientNet**, **Model_2_FasterRCNN**, and **Model_3_MobileNet**. After analyzing their performance, I chose **Model_1_SSD_EfficientNet** as the best model for deployment in an urban environment.
 
