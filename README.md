@@ -1,15 +1,6 @@
 # Object-Detection-in-an-Urban-Environment
 ![Demo](data\animation.gif)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Methodology](#methodology)
-4. [Training & Deployment Process with AWS](#training--deployment-process-with-aws)
-5. [Model Selection](#model-selection)
-6. [Results](#results)
-7. [Future Work & Possible Improvement](#future-work--possible-improvement)
-
 ## Introduction
 This project focuses on utilizing transfer learning using the TensorFlow Object Detection API and AWS Sagemaker to train models for detecting and classifying objects in an urban environment. The data used is sourced from the Waymo Open Dataset, providing a robust basis for training.
 
