@@ -1,13 +1,4 @@
 # Object-Detection-in-an-Urban-Environment
-
-
-#Note:AuNV note
-https://sagemaker-us-east-1-251792761470.s3.amazonaws.com/tf2-object-detection-2024-08-17-15-15-49-969/output/model.tar.gz
-
-mobilenet-> upload model.tar.gz to AWS and run training
-https://sagemaker-us-east-1-251792761470.s3.amazonaws.com/tf2-object-detection-2024-08-18-14-12-02-225/output/model.tar.gz
-
-ml.t3.xlarge :Type machine  3,825 USD
 ![Demo](data\animation.gif)
 
 ## Table of Contents
