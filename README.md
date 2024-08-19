@@ -50,7 +50,7 @@ For consistency and due to budget constraints, the training steps were limited t
 
 **Summary of Experiments and Best Model Selection**
 **Note:** Due to limited AWS credits, I conducted the evaluation based on visual inspection and manual analysis rather than using TensorFlow Board for in-depth metrics.
-
+ ![Mlimited AWS credits](limited AWS credits.png)
 ## Results
 
 In this project, I evaluated three object detection models: **Model_1_SSD_EfficientNet**, **Model_2_FasterRCNN**, and **Model_3_MobileNet**. After analyzing their performance, I chose **Model_1_SSD_EfficientNet** as the best model for deployment in an urban environment.
